@@ -1,4 +1,4 @@
-# Repositorio template
+# Go barber
 
 
 Instalar as dependências
